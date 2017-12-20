@@ -48,6 +48,6 @@ Release/
 
 # JetBrains IDEA / PyCharm
 .idea/
-
+*.iml
 
 cmake_install.cmake
